@@ -34,7 +34,10 @@ netflix-data-analysis/
 5. Business Conclusions & Insights
 
 ## Key Insights
-_(Will be updated after full analysis is complete)_
+- **Content Mix:** Netflix library is 69.7% Movies (6,126 titles) and 30.3% TV Shows (2,664 titles) — primarily a Movie platform, but TV Show share is steadily growing.
+- **COVID-19 Impact:** Contrary to expectations, content addition increased ~4.5% during the pandemic (avg 808/year pre-COVID vs 844/year during COVID) — higher home viewership likely pushed Netflix to expand its library.
+- **Regional Strategy:** India strongly favors Movies (92% of its 1,008 titles), while USA has a more balanced mix (73.7% Movies out of 3,202 titles).
+- **Top Genre:** 'International Movies' dominates with 2,752 titles — reflecting Netflix's strong push toward global content.
 
 ## Author
 Nikita Gupta  
